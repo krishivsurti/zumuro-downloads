@@ -2,7 +2,7 @@
 
 Official Android APK releases for [Zumuro](https://zumuro.web.app).
 
-[Download Zumuro for Android v1.4.2](https://github.com/krishivsurti/zumuro-downloads/releases/download/android-v1.4.2/Zumuro-Android-1.4.2.apk)
+[Download Zumuro for Android v1.4.3](https://github.com/krishivsurti/zumuro-downloads/releases/download/android-v1.4.3/Zumuro-Android-1.4.3.apk)
 
 Requires Android 8.0 or newer. Includes background playback, notification and lock-screen controls, and a rolling recommendation queue for songs started outside playlists. Songs you add manually play first. Music and recommendations require an internet connection.
 
