@@ -2,7 +2,7 @@
 
 Official Android APK releases for [Zumuro](https://zumuro.web.app).
 
-[Download Zumuro for Android v1.3.1](https://github.com/krishivsurti/zumuro-downloads/releases/download/android-v1.3.1/Zumuro-Android-1.3.1.apk)
+[Download Zumuro for Android v1.3.2](https://github.com/krishivsurti/zumuro-downloads/releases/download/android-v1.3.2/Zumuro-Android-1.3.2.apk)
 
 Requires Android 8.0 or newer. Includes background playback and media controls in notifications and on the lock screen. Music streams online.
 
